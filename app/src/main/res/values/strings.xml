@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Personal Travel</string>
+    <string name="title_section_start">Início</string>
+    <string name="title_section_destiny">Destino</string>
+    <string name="title_section_type_travel">Intuito da Viagem</string>
+    <string name="title_section_consultants">Consultores</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Bem vindo ao Personal Travel, clique em começar para dar início a sua viagem.</string>
+    <string name="welcome_layout_start">Começar</string>
+    <string name="login_layout_login_text">Login:</string>
+    <string name="login_layout_password_text">Senha:</string>
+    <string name="login_layout_login_button_text">Entrar</string>
+    <string name="login_layout_forgot_button_text">Esqueci!</string>
+    <string name="login_layout_register_button_text">Cadastrar</string>
+    <string name="register_layout_is_user_consultant_text">Usuário consultor de viagens.</string>
+    <string name="register_layout_text_first_name">Nome:</string>
+    <string name="register_layout_text_last_name">Sobrenome:</string>
+    <string name="register_layout_text_email">Email:</string>
+    <string name="register_layout_text_phone">Telefone:</string>
+    <string name="register_layout_profile_image">Imagem de perfil</string>
+    <string name="register_layout_register_button_text">Cadastrar</string>
+    <string name="register_layout_text_password">Senha:</string>
+    <string name="register_layout_responsible_country_spinner_text">Pais que atende:</string>
+    <string name="register_layout_context_menu_take_picture">Tirar Foto</string>
+    <string name="register_layout_context_menu_choose_from_galery">Escolher na galeria</string>
+
+</resources>
